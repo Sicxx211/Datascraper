@@ -1,12 +1,12 @@
 # Datascraper
 
 
-# How I wrote the code
+# Why I wrote the code
 I wrote this app in order to save time in the morning, Hacker News is a good place to get insight on technology nowadays but I don't want to waste my own time to find a good article to read, what this app does, basically will scan the first 2 pages on HN and return only the articles that have points higher than 100, so you would save time and read only the good articles.
 
 
 
-# Code: 
+# How I wrote the code
 
 import requests <br>
 from bs4 import BeautifulSoup <br>
